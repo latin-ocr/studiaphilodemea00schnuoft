@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./studiaphilodemea00schnuoft_0001.png"; bbox 0 0 2311 3502; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 67 2943 119 3470">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 67 2943 119 3470">
+     <span class='ocr_line' id='line_1_1' title="bbox 89 2943 119 3470; baseline 527 -2635"><span class='ocrx_word' id='word_1_1' title='bbox 89 2943 119 3303; x_wconf 45' lang='lat' dir='ltr'>„aaazmmssssafflassfflfiaurff</span> <span class='ocrx_word' id='word_1_2' title='bbox 93 3310 117 3405; x_wconf 37' lang='lat' dir='ltr'>irus&amp;</span> <span class='ocrx_word' id='word_1_3' title='bbox 100 3417 118 3429; x_wconf 55' lang='grc' dir='ltr'>,η</span> <span class='ocrx_word' id='word_1_4' title='bbox 94 3435 117 3470; x_wconf 54' lang='lat' dir='ltr'>ff..</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 67 3080 79 3306; baseline 113 -226"><span class='ocrx_word' id='word_1_5' title='bbox 67 3080 79 3089; x_wconf 79' lang='grc' dir='ltr'>ι,</span> <span class='ocrx_word' id='word_1_6' title='bbox 69 3296 76 3306; x_wconf 83' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 54 3088 70 3306">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 54 3088 70 3306">
+     <span class='ocr_line' id='line_1_3' title="bbox 54 3088 70 3306; baseline 218 -872"><span class='ocrx_word' id='word_1_7' title='bbox 54 3088 70 3306; x_wconf 58' lang='grc'>11111..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 550 3502">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 550 3502">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 550 3502"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 550 3502; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
